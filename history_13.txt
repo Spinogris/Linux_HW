@@ -1,0 +1,30 @@
+   0 ls
+   1 mkdir -p /home/animals
+   2 ls /home
+   3 mkdir -p /home/animals/dogs /home/animals/cats home/animals/fish
+   4 ls /animals
+   5 ls /home/animals
+   6 mkdir -p /home/animals/fish
+   7 ls /home/animals
+   8 touch /home/animals/dogs/oluto
+   9 ls /home/animals/dogs
+  10 mv /home/animals/dogs/oluto /home/animals/dogs/pluto
+  11 ls /home/animals/dogs
+  12 touch /home/animals/cats/garfield
+  13 ls /home/animals/cats
+  14 touch /home/animals/fish/nemo
+  15 ls /home/animals/fish
+  16 touch /tmp/adam
+  17 ls /tmp
+  18 mkdir -p /home/humans
+  19 ls /home
+  20 cp /tmp/adam /home/humans/adam
+  21 ls /home/humans
+  22 touch /tmp/evA
+  23 ls /tmp
+  24 mv /tmp/evA /opt/eve
+  25 ls /opt
+  26 mv /opt/eve /home/humans/eve
+  27 ls /home/humans
+  28 histori > histori_13.txt
+  29 history > history_13.txt
