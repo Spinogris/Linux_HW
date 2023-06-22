@@ -1,0 +1,24 @@
+   0 ls
+   1 cd /home
+   2 ls
+   3 mkdir -p user/start
+   4 ls
+   5 ls user
+   6 echo "Start" > user/start/start1.txt
+   7 cat user/start/start1.txt
+   8 date >> user/start/start1.txt 
+   9 cat user/start/start1.txt
+  10 ls /opt/task
+  11 mkdir /opt/task
+  12 ls/opt
+  13 ls /opt
+  14 cp user/start/start1.txt /opt/task/start.txt
+  15 ls /opt/task
+  16 cat /opt/task/start.txt
+  17 ls -al / | tail -4 >> /opt/task/start.txt 
+  18 cat /opt/task/start.txt
+  19 ls -al /
+  20 hitory > history2.txt
+  21 > history2.txt
+  22 export_file history2.txt
+  23 history > history_21.txt
